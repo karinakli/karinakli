@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karinakli
-- 👀 I’m interested in software development and design. 
+- 👀 I’m interested in software development and product design. 
 - 🌱 I’m currently learning computer science at Stanford!
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me at my email karinali@stanford.edu OR on instagram (@karina.li)
