@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @karinakli
-- 👀 I’m interested in software development and product design. 
-- 🌱 I’m currently learning computer science at Stanford!
+- 👀 I’m interested in product design and software development. 
+- 🌱 I’m currently studying Computer Science (Human-Computer Interaction) at Stanford!
+- ⭐ Check out my portfolio here: [www.karinakli.com](karinakli.com)
 - 📫 You can reach me at my email karinali@stanford.edu
 
 <!---
